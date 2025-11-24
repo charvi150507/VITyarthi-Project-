@@ -71,3 +71,21 @@ Select 7 to clear the inventory and confirm it's empty.
 Select 0 to exit.
 
 Screenshots 
+
+<img width="774" height="152" alt="image" src="https://github.com/user-attachments/assets/bd991f8c-6f20-4a81-9e9b-940d9c99f1c9" />
+
+<img width="896" height="164" alt="image" src="https://github.com/user-attachments/assets/a5bccc1f-7b64-4e45-8327-6d0873144ed1" />
+<img width="216" height="79" alt="image" src="https://github.com/user-attachments/assets/257dfe04-7d3b-4db3-b409-7864d0d7bb11" />
+<img width="221" height="73" alt="image" src="https://github.com/user-attachments/assets/86258340-1097-42aa-ab0f-1601a60565de" />
+<img width="239" height="136" alt="image" src="https://github.com/user-attachments/assets/0a7aacf0-bc77-4d95-8e9b-85e7d1230b0f" />
+<img width="897" height="132" alt="image" src="https://github.com/user-attachments/assets/1a25bef1-fa1f-4810-89a9-1b95b171e966" />
+<img width="308" height="152" alt="image" src="https://github.com/user-attachments/assets/0580be22-b06d-4a75-bf04-a17e112e0a3e" />
+<img width="226" height="75" alt="image" src="https://github.com/user-attachments/assets/052b9fa8-f426-423e-9849-7c2b7ec3aa84" />
+
+
+
+
+
+
+
+

@@ -30,6 +30,34 @@ The system is menu-driven, runs in the terminal, and uses a dictionary to store 
 
 🔄 Looping Menu until user chooses to exit
 
+Key Features
+The system provides a full suite of basic retail inventory operations, structured around a simple menu:
+
+* Item Creation and Maintenance (CRUD):
+
+  Add a NEW item (Option 1): Allows entry of a unique ID, name, price, and initial stock.
+
+  UPDATE the stock level (Option 4): Manages inventory changes by increasing stock (for deliveries) or safely decreasing stock (for sales), with validation to prevent stock from going   below zero.
+
+  REMOVE an item (Option 5): Permanently deletes a specific product entry by its ID.
+
+* Information and Reporting:
+
+  Check AVAILABILITY (Option 2): Provides status updates based on stock levels (e.g., "Plenty in stock," "Running low," or "SOLD OUT").
+
+  Check PRICE (Option 3): Retrieves and displays the price for a specified Item ID.
+
+  VIEW all items (Option 6): Displays a neatly formatted table summarizing all products currently in the inventory.
+
+* Safety and Usability:
+
+  Input Validation: Uses try-except blocks to handle non-numeric or inappropriate input gracefully, preventing program crashes.
+
+  CLEAR the entire inventory (Option 7): A high-risk operation requiring explicit text confirmation ('YES') to proceed.
+
+* EXIT the system (Option 0): Terminates the program cleanly.
+
+
 1. Python 3
 
 The entire project is implemented using Python, chosen for its simplicity and readability.
